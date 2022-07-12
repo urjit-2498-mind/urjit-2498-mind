@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @urjit-2498-mind Software engineer from India.
+- 🧑‍💼 I'm working at @Mindinventory, Ahmedabad Gujarat.
+- 💻 I'm working as backend developer.
+- 👀 I’m interested in learning different programming languages.
+- 🌱 I’m currently learning some topics related React 18 and Web3 JS.
+- 📫 You can reach me via Email: urjit.shah@mindinventory.com.
